@@ -1,0 +1,11 @@
+3.1.
+	cd  .ssh
+3.2. 
+	mkdir MMS_C_camp
+	cp –r ./*.c  MMS_C_camp
+	rm [0-9]*
+3.3
+	chmod 754 ~/Desktop/testFile
+3.4
+	wc –l source1.c source2.c > lineCount
+	
